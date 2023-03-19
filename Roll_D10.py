@@ -1,4 +1,6 @@
 #Roll D10 Dices
+#This project is a Python-based dice game that allows the user to choose the number of 10-sided dice to roll and the number that counts as a successful roll. 
+#Additionally, the user can choose to cancel out a success if any of the dice rolls result in a 1.
 
 import random 
 from time import sleep
